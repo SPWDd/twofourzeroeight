@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\twofourzeroeight\obj\Debug\twozerofoureight.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\twofourzeroeight\obj\Debug\twozerofoureight.TwoZeroFourEightView.resources
+C:\Users\User\Source\Repos\twofourzeroeight\obj\Debug\twozerofoureight.Properties.Resources.resources
+C:\Users\User\Source\Repos\twofourzeroeight\obj\Debug\twozerofoureight.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\twofourzeroeight\obj\Debug\twozerofoureight.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\twofourzeroeight\bin\Debug\twozerofoureight.exe.config
+C:\Users\User\source\repos\twofourzeroeight\bin\Debug\twozerofoureight.exe
+C:\Users\User\source\repos\twofourzeroeight\bin\Debug\twozerofoureight.pdb
+C:\Users\User\source\repos\twofourzeroeight\obj\Debug\twozerofoureight.exe
+C:\Users\User\source\repos\twofourzeroeight\obj\Debug\twozerofoureight.pdb
